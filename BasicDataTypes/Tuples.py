@@ -5,7 +5,7 @@ Domain    : Python
 Author    : Ahmedur Rahman Shovon
 Created   : 06 July 2020
 Problem   : https://www.hackerrank.com/challenges/python-tuples/problem
-Note: If code not working with Python3, try selecting PyPy3 there, which focuses on effciency. It will work. 
+Note: If code not working with Python3, try selecting PyPy3 and write the code which focuses on effciency. It will work. 
 """
 if __name__ == "__main__":
     n = int(input())
